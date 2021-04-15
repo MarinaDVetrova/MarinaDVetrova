@@ -19,6 +19,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 
-
-
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)]()
+[![Instagram](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=276DC3)]()
+[![Facebook](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=276DC3)]()
+[![VKontakte](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=276DC3)]()
+[![Clubhouse](https://img.shields.io/badge/-Clubhouse-090909?style=for-the-badge&logo=Clubhouse&logoColor=6515DD)](https://www.joinclubhouse.com/@marinavetrova)
