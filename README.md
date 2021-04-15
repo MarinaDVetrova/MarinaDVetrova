@@ -10,7 +10,7 @@
 ![Google_Optimize](https://img.shields.io/badge/-Google_Optimize-090909?style=for-the-badge&logo=google-optimize&logoColor=B366F6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Zapier](https://img.shields.io/badge/-Zapier-090909?style=for-the-badge&logo=zapier&logoColor=FF4A00)
-![Miro](https://img.shields.io/badge/-Miro-090909?style=for-the-badge&logo=miro&logoColor=050038)
+![Miro](https://img.shields.io/badge/-Miro-090909?style=for-the-badge&logo=miro&logoColor=F2C811)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![R_language](https://img.shields.io/badge/-R_language-090909?style=for-the-badge&logo=r&logoColor=276DC3)
