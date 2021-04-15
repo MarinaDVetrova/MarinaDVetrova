@@ -2,7 +2,7 @@
 
 ## I am an digital enthusiast 💻, analyst📈, art critic👩🏻‍🎓 and lover of the opera 🎼. My spirit animal is a honey badger🍯🦡
 
-### Languages and Tools
+### Skills and Experience
 ![R_language](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=276DC3)
 ![RStudio](https://img.shields.io/badge/-RStudio-090909?style=for-the-badge&logo=RStudio&logoColor=75AADB)
 ![Power_BI](https://img.shields.io/badge/-Power_BI-090909?style=for-the-badge&logo=power-bi&logoColor=F2C811)
