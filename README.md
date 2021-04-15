@@ -25,3 +25,5 @@
 [![Facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/marina.d.vetrova)
 [![VKontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VK&logoColor=4680C2)](https://vk.com/marina_veter)
 [![Clubhouse](https://img.shields.io/badge/-Clubhouse-090909?style=for-the-badge&logo=Clubhouse&logoColor=6515DD)](https://www.joinclubhouse.com/@marinavetrova)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaDVetrova&theme=radical&show_icons=true)](https://github.com/MarinaDVetrova/github-readme-stats)
