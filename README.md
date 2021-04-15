@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Header
+![Header](https://github.com/MarinaDVetrova/MarinaDVetrova/blob/main/assets/header.gif)
 
 About me
 
