@@ -20,8 +20,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 
 ### Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)]()
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/marinavetrova)
 [![Instagram](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=276DC3)]()
 [![Facebook](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=276DC3)]()
-[![VKontakte](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=276DC3)]()
+[![VKontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VK&logoColor=4680C2)](https://vk.com/marina_veter)
 [![Clubhouse](https://img.shields.io/badge/-Clubhouse-090909?style=for-the-badge&logo=Clubhouse&logoColor=6515DD)](https://www.joinclubhouse.com/@marinavetrova)
