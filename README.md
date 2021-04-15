@@ -9,7 +9,7 @@
 ![Google_Tag_Manager](https://img.shields.io/badge/-GTM-090909?style=for-the-badge&logo=google-tag-manager&logoColor=246FDB)
 ![Google_Optimize](https://img.shields.io/badge/-Google_Optimize-090909?style=for-the-badge&logo=google-optimize&logoColor=B366F6)
 ![MailChimp](https://img.shields.io/badge/-MailChimp-090909?style=for-the-badge&logo=MailChimp&logoColor=FFE01B)
-![R_language](https://img.shields.io/badge/-R_language-090909?style=for-the-badge&logo=r&logoColor=276DC3)
+![Tableau](https://img.shields.io/badge/-Tableau-090909?style=for-the-badge&logo=Tableau&logoColor=E97627)
 ![R_language](https://img.shields.io/badge/-R_language-090909?style=for-the-badge&logo=r&logoColor=276DC3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Zapier](https://img.shields.io/badge/-Zapier-090909?style=for-the-badge&logo=zapier&logoColor=FF4A00)
