@@ -4,4 +4,12 @@
 
 ### Languages and Tools
 ![R_language](https://img.shields.io/badge/-R_language-090909?style=for-the-badge&logo=r&logoColor=276DC3)
+![Google Analytics](https://img.shields.io/badge/-Google_Analytics-090909?style=for-the-badge&logo=GoogleAnalytics&logoColor=E37400)
+![R_language](https://img.shields.io/badge/-R_language-090909?style=for-the-badge&logo=r&logoColor=276DC3)
+![R_language](https://img.shields.io/badge/-R_language-090909?style=for-the-badge&logo=r&logoColor=276DC3)
+![R_language](https://img.shields.io/badge/-R_language-090909?style=for-the-badge&logo=r&logoColor=276DC3)
+![R_language](https://img.shields.io/badge/-R_language-090909?style=for-the-badge&logo=r&logoColor=276DC3)
+![R_language](https://img.shields.io/badge/-R_language-090909?style=for-the-badge&logo=r&logoColor=276DC3)
+![R_language](https://img.shields.io/badge/-R_language-090909?style=for-the-badge&logo=r&logoColor=276DC3)
+
 Follow me
