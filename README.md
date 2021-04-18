@@ -27,7 +27,3 @@
 [![Clubhouse](https://img.shields.io/badge/-Clubhouse-090909?style=for-the-badge&logo=Clubhouse&logoColor=6515DD)](https://www.joinclubhouse.com/@marinavetrova)
 
 [![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaDVetrova&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/MarinaDVetrova/github-readme-stats)
-
-<a href="https://github.com/MarinaDVetrova/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MarinaDVetrova&show_icons=true&count_private=true&theme=radical" alt="Marina's github stats" />
-</a>
