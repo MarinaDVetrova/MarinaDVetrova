@@ -28,5 +28,5 @@
 [![VKontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VK&logoColor=4680C2)](https://vk.com/marina_veter)
 [![Clubhouse](https://img.shields.io/badge/-Clubhouse-090909?style=for-the-badge&logo=Clubhouse&logoColor=6515DD)](https://www.joinclubhouse.com/@marinavetrova)
 
-[![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaDVetrova&theme=radical&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/MarinaDVetrova/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaDVetrova&theme=tokyonight)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaDVetrova&theme=tokyonight)]()
