@@ -4,10 +4,10 @@
 
 ### Skills and Experience
 [![R_language](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=276DC3)]()
-[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=r&logoColor=276DC3)]
-[![SQL](https://img.shields.io/badge/-SQL-69b5cc?style=for-the-badge&logo=PostgreSQL)]
-[![JupiterNotebook](https://img.shields.io/badge/-JupyterHub-69b5cc?style=for-the-badge&logo=Jupyter)]
-[![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=Tableau)]
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow)]()
+[![SQL](https://img.shields.io/badge/-SQL-69b5cc?style=for-the-badge&logo=PostgreSQL)]()
+[![JupiterNotebook](https://img.shields.io/badge/-JupyterHub-69b5cc?style=for-the-badge&logo=Jupyter)]()
+[![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=Tableau)]()
 [![RStudio](https://img.shields.io/badge/-RStudio-090909?style=for-the-badge&logo=RStudio&logoColor=75AADB)]()
 [![Power_BI](https://img.shields.io/badge/-Power_BI-090909?style=for-the-badge&logo=power-bi&logoColor=F2C811)]()
 [![Tableau](https://img.shields.io/badge/-Tableau-090909?style=for-the-badge&logo=Tableau&logoColor=E97627)]()
