@@ -4,7 +4,7 @@
 
 ### Skills and Experience
 [![R_language](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=276DC3)]()
-[![Python](https://img.shields.io/badge/-Python-69b5cc?style=for-the-badge&logo=Python)]
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=r&logoColor=276DC3)]
 [![SQL](https://img.shields.io/badge/-SQL-69b5cc?style=for-the-badge&logo=PostgreSQL)]
 [![JupiterNotebook](https://img.shields.io/badge/-JupyterHub-69b5cc?style=for-the-badge&logo=Jupyter)]
 [![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=Tableau)]
