@@ -6,7 +6,7 @@
 [![R_language](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=276DC3)]()
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow)]()
 [![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=blue)]()
-[![JupiterNotebook](https://img.shields.io/badge/-JupyterHub-69b5cc?style=for-the-badge&logo=Jupyter)]()
+[![JupiterNotebook](https://img.shields.io/badge/-JupyterHub-6090909?style=for-the-badge&logo=Jupyter&logoColor=FF4A00)]()
 [![RStudio](https://img.shields.io/badge/-RStudio-090909?style=for-the-badge&logo=RStudio&logoColor=75AADB)]()
 [![Power_BI](https://img.shields.io/badge/-Power_BI-090909?style=for-the-badge&logo=power-bi&logoColor=F2C811)]()
 [![Tableau](https://img.shields.io/badge/-Tableau-090909?style=for-the-badge&logo=Tableau&logoColor=E97627)]()
