@@ -24,9 +24,8 @@
 
 ### Artificial Intelligence
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)]()
-[![Hugging Face](https://img.shields.io/badge/Hugging%20face-f5e900?style=for-the-badge&logo=huggingface)](https://huggingface.co/marinavetrova)
-
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-090909?style=for-the-badge&logo=JavaScript&logoColor=white)]()
+[![Hugging Face](https://img.shields.io/badge/Hugging%20face-090909?style=for-the-badge&logo=huggingface&logoColor=yellow)](https://huggingface.co/marinavetrova)
 
 ### Collaboration Tools
 
