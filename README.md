@@ -16,7 +16,7 @@
 [![MailChimp](https://img.shields.io/badge/-MailChimp-090909?style=for-the-badge&logo=MailChimp&logoColor=FFE01B)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](#)
 [![Zapier](https://img.shields.io/badge/-Zapier-090909?style=for-the-badge&logo=zapier&logoColor=FF4A00)](#)
-[![Miro](https://img.shields.io/badge/-Miro-090909?style=for-the-badge&logo=miro&logoColor=F2C811)](https://miro.com/app/board/o9J_knnnqGQ=/) {:target="_blank"}
+[![Miro](https://img.shields.io/badge/-Miro-090909?style=for-the-badge&logo=miro&logoColor=F2C811)](https://miro.com/app/board/o9J_knnnqGQ=/)
 [![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=F24E1E)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)](#)
