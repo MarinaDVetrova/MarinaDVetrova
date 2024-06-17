@@ -4,35 +4,35 @@
 
 ### Skills and Experience
 [![R_language](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=276DC3)](#)
-[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow)]()
-[![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=blue)]()
-[![JupiterNotebook](https://img.shields.io/badge/-JupyterHub-090909?style=for-the-badge&logo=Jupyter&logoColor=FF4A00)]()
-[![RStudio](https://img.shields.io/badge/-RStudio-090909?style=for-the-badge&logo=RStudio&logoColor=75AADB)]()
-[![Power_BI](https://img.shields.io/badge/-Power_BI-090909?style=for-the-badge&logo=power-bi&logoColor=F2C811)]()
-[![Tableau](https://img.shields.io/badge/-Tableau-090909?style=for-the-badge&logo=Tableau&logoColor=E97627)]()
-[![Google_Analytics](https://img.shields.io/badge/-Google_Analytics-090909?style=for-the-badge&logo=google-analytics&logoColor=E37400)]()
-[![Google_Tag_Manager](https://img.shields.io/badge/-GTM-090909?style=for-the-badge&logo=google-tag-manager&logoColor=246FDB)]()
-[![Google_Optimize](https://img.shields.io/badge/-Google_Optimize-090909?style=for-the-badge&logo=google-optimize&logoColor=B366F6)]()
-[![MailChimp](https://img.shields.io/badge/-MailChimp-090909?style=for-the-badge&logo=MailChimp&logoColor=FFE01B)]()
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=7952B3)]()
-[![Zapier](https://img.shields.io/badge/-Zapier-090909?style=for-the-badge&logo=zapier&logoColor=FF4A00)]()
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow)](#)
+[![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=blue)](#)
+[![JupiterNotebook](https://img.shields.io/badge/-JupyterHub-090909?style=for-the-badge&logo=Jupyter&logoColor=FF4A00)](#)
+[![RStudio](https://img.shields.io/badge/-RStudio-090909?style=for-the-badge&logo=RStudio&logoColor=75AADB)](#)
+[![Power_BI](https://img.shields.io/badge/-Power_BI-090909?style=for-the-badge&logo=power-bi&logoColor=F2C811)](#)
+[![Tableau](https://img.shields.io/badge/-Tableau-090909?style=for-the-badge&logo=Tableau&logoColor=E97627)](#)
+[![Google_Analytics](https://img.shields.io/badge/-Google_Analytics-090909?style=for-the-badge&logo=google-analytics&logoColor=E37400)](#)
+[![Google_Tag_Manager](https://img.shields.io/badge/-GTM-090909?style=for-the-badge&logo=google-tag-manager&logoColor=246FDB)](#)
+[![Google_Optimize](https://img.shields.io/badge/-Google_Optimize-090909?style=for-the-badge&logo=google-optimize&logoColor=B366F6)](#)
+[![MailChimp](https://img.shields.io/badge/-MailChimp-090909?style=for-the-badge&logo=MailChimp&logoColor=FFE01B)](#)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](#)
+[![Zapier](https://img.shields.io/badge/-Zapier-090909?style=for-the-badge&logo=zapier&logoColor=FF4A00)](#)
 [![Miro](https://img.shields.io/badge/-Miro-090909?style=for-the-badge&logo=miro&logoColor=F2C811)](https://miro.com/app/board/o9J_knnnqGQ=/)
-[![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=F24E1E)]()
-[![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)]()
-[![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)]()
+[![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=F24E1E)](#)
+[![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)](#)
+[![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](#)
 
 ### Artificial Intelligence
 
-[![ChatGPT](https://img.shields.io/badge/-ChatGPT-090909?style=for-the-badge&logo=openai&logoColor=white)]()
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-090909?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20face-090909?style=for-the-badge&logo=huggingface&logoColor=yellow)](https://huggingface.co/marinavetrova)
 
 ### Collaboration Tools
 
-[![Asana](https://img.shields.io/badge/-Asana-090909?style=for-the-badge&logo=asana&logoColor=F06A6A)]()
-[![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052CC)]() 
-[![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=slack&logoColor=4A154B)]()
-[![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=trello&logoColor=0052CC)]() 
+[![Asana](https://img.shields.io/badge/-Asana-090909?style=for-the-badge&logo=asana&logoColor=F06A6A)](#)
+[![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052CC)](#) 
+[![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=slack&logoColor=4A154B)](#)
+[![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=trello&logoColor=0052CC)](#) 
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/marinavetrova)
