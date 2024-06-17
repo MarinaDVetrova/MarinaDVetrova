@@ -31,8 +31,8 @@
 
 [![Asana](https://img.shields.io/badge/-Asana-090909?style=for-the-badge&logo=asana&logoColor=F06A6A)]()
 [![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052CC)]() 
-[![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=slack&logoColor=fff)]()
-[![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=trello&logoColor=fff)]() 
+[![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=slack&logoColor=4A154B)]()
+[![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=trello&logoColor=0052CC)]() 
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/marinavetrova)
