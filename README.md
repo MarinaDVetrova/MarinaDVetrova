@@ -30,7 +30,7 @@
 ### Collaboration Tools
 
 [![Asana](https://img.shields.io/badge/-Asana-090909?style=for-the-badge&logo=asana&logoColor=F06A6A)]()
-[![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=fff)]() 
+[![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052CC)]() 
 [![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=slack&logoColor=fff)]()
 [![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=trello&logoColor=fff)]() 
 
