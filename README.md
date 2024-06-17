@@ -29,10 +29,10 @@
 
 ### Collaboration Tools
 
-[![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#) [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#) [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#) [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
+[![Asana](https://img.shields.io/badge/-Asana-090909?style=for-the-badge&logo=asana&logoColor=fff)]()
+[![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=fff)]() 
+[![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=slack&logoColor=fff)]()
+[![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=trello&logoColor=fff)]() 
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/marinavetrova)
