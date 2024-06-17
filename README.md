@@ -28,6 +28,10 @@
 [![VKontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VK&logoColor=4680C2)](https://vk.com/marina_veter)
 [![Clubhouse](https://img.shields.io/badge/-Clubhouse-090909?style=for-the-badge&logo=Clubhouse&logoColor=6515DD)](https://www.joinclubhouse.com/@marinavetrova)
 
+[![Kagge](https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/marinavetrova)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20face-f5e900?style=for-the-badge&logo=huggingface)](https://huggingface.co/marinavetrova)
+[![Hacker Rank](https://img.shields.io/badge/-Hacker%20Rank-00000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/marina_vetrova)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaDVetrova&layout=compact&langs_count=8&theme=highcontrast)]()
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarinaDVetrova&theme=dark&background=000000)](https://git.io/streak-stats)
