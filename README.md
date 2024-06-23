@@ -41,7 +41,7 @@
 [![Clubhouse](https://img.shields.io/badge/-Clubhouse-090909?style=for-the-badge&logo=Clubhouse&logoColor=6515DD)](https://www.joinclubhouse.com/@marinavetrova)
 [![Kagge](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/marinavetrova)
 [![Hacker Rank](https://img.shields.io/badge/-Hacker%20Rank-090909?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/marina_vetrova)
-[![Codewars](https://img.shields.io/badge/Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=b1361e)](www.codewars.com/r/gWh5VQ)
+[![Codewars](https://img.shields.io/badge/Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=b1361e)](https://www.codewars.com/r/gWh5VQ)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaDVetrova&layout=compact&langs_count=8&theme=highcontrast)]()
 
