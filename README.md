@@ -35,13 +35,16 @@
 [![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=trello&logoColor=0052CC)](#) 
 
 ### Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/marinavetrova)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://leetcode.com/u/MarinaVetrova/)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/marina.d.vetrova)
 [![VKontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VK&logoColor=4680C2)](https://vk.com/marina_veter)
 [![Clubhouse](https://img.shields.io/badge/-Clubhouse-090909?style=for-the-badge&logo=Clubhouse&logoColor=6515DD)](https://www.joinclubhouse.com/@marinavetrova)
-[![Kagge](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/marinavetrova)
+
+### Learn coding
+[![Leetcode](https://img.shields.io/badge/Leetcode-090909?style=for-the-badge&logo=Leetcode&logoColor=b1361e)](https://www.codewars.com/r/gWh5VQ)
 [![Hacker Rank](https://img.shields.io/badge/-Hacker%20Rank-090909?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/marina_vetrova)
 [![Codewars](https://img.shields.io/badge/Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=b1361e)](https://www.codewars.com/r/gWh5VQ)
+[![Kagge](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/marinavetrova)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaDVetrova&layout=compact&langs_count=8&theme=highcontrast)]()
 
