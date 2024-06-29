@@ -44,7 +44,7 @@
 [![Leetcode](https://img.shields.io/badge/Leetcode-090909?style=for-the-badge&logo=Leetcode&logoColor=ffa116)](https://leetcode.com/u/MarinaVetrova/)
 [![Hacker Rank](https://img.shields.io/badge/-Hacker%20Rank-090909?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/marina_vetrova)
 
-[![Stepic](https://img.shields.io/badge/Stepic-090909?style=for-the-badge&logo=Stepic&logoColor=ffa116)](https://leetcode.com/u/MarinaVetrova/)
+[![Stepik](https://img.shields.io/badge/Stepik-090909?style=for-the-badge&logo=Stepik&logoColor=ffa116)](https://stepik.org/users/33356423/profile)
 [![Leetcode](https://img.shields.io/badge/Leetcode-090909?style=for-the-badge&logo=Leetcode&logoColor=ffa116)](https://leetcode.com/u/MarinaVetrova/)
 
 [![Codewars](https://img.shields.io/badge/Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=b1361e)](https://www.codewars.com/r/gWh5VQ)
