@@ -53,6 +53,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarinaDVetrova&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=MarinaDVetrova" width="auto"></img>
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MarinaDVetrova&show-other-skills=true" width="auto"></img>
+<!--   skyline 
+<a href="https://skyline.github.com/MarinaDVetrova/2024"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+-->
