@@ -52,5 +52,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaDVetrova&layout=compact&langs_count=8&theme=highcontrast)]()
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarinaDVetrova&theme=dark&background=000000)](https://git.io/streak-stats)
-<!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/MarinaDVetrova/MarinaDVetrova/output/github-contribution-grid-snake-dark.svg)
+
+
+<!--   skyline 
+<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+-->
+
+<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
+
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
+<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
