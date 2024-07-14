@@ -53,6 +53,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarinaDVetrova&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!--   skyline 
-<a href="https://skyline.github.com/MarinaDVetrova/2024"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
