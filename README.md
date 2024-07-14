@@ -52,6 +52,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaDVetrova&layout=compact&langs_count=8&theme=highcontrast)]()
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarinaDVetrova&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- dark snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
