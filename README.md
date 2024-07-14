@@ -54,9 +54,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarinaDVetrova&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-
-
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
-</p>
