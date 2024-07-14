@@ -53,4 +53,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarinaDVetrova&theme=dark&background=000000)](https://git.io/streak-stats)
 <!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+![BEPb's github activity graph](https://raw.githubusercontent.com/MarinaDVetrova/MarinaDVetrova/output/github-contribution-grid-snake-dark.svg)
