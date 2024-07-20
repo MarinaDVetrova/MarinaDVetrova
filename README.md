@@ -6,7 +6,7 @@
 
 ###
 
-### Skills and Experience
+### Analytics
 [![R_language](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=276DC3)](#)
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow)](#)
 [![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=blue)](#)
