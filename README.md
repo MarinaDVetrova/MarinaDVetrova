@@ -52,6 +52,9 @@
 [![Codewars](https://img.shields.io/badge/Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=b1361e)](https://www.codewars.com/r/gWh5VQ)
 [![Kagge](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/marinavetrova)
 
+<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
+
+###
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaDVetrova&layout=compact&langs_count=8&theme=highcontrast)]()
 
