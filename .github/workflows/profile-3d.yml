@@ -20,5 +20,5 @@ jobs:
           git config user.name MarinaDVetrova
           git config user.email marina.vetrova@list.ru
           git add -A .
-          git commit -m "generated"
+          git commit -m "🚀 generated"
           git push
