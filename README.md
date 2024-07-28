@@ -55,6 +55,7 @@
 ### Practice by solving Go puzzles
 
 [![Gomagic](https://img.shields.io/badge/-Gomagic-090909?style=for-the-badge&logo=Headspace&logoColor=ffffff)](https://gomagic.org/ru/members/marina-vetrova/)
+[![Goproblems](https://img.shields.io/badge/-Goproblems-090909?style=for-the-badge&logo=Headspace&logoColor=ffffff)](https://goproblems.com/user/Marina777)
 
 <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 
