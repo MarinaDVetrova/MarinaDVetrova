@@ -50,7 +50,7 @@
 [![Stepik](https://img.shields.io/badge/Stepik-090909?style=for-the-badge&logo=Stepik&logoColor=ffa116)](https://stepik.org/users/33356423/profile)
 [![sqlacademy](https://img.shields.io/badge/sqlacademy-090909?style=for-the-badge&logo=sqlacademy&logoColor=ffa116)](https://sql-academy.org/ru/profile/130557)
 [![Codewars](https://img.shields.io/badge/Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=b1361e)](https://www.codewars.com/r/gWh5VQ)
-[![Kagge](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/marinavetrova)
+[![Kagge](https://img.shields.io/badge/-Kaggle-090909?style=for-the-badge&logo=kaggle&logoColor=ffffff)](https://www.kaggle.com/marinavetrova)
 
 ### Practice by solving Go puzzles
 
